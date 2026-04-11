@@ -4,10 +4,9 @@
 
 > "Talk is cheap. Show me the code." — Linus Torvalds
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue?style=flat-square)](https://github.com/anthropics/claude-code)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
-[![Version](https://img.shields.io/badge/version-1.0.0-green?style=flat-square)]()
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将林纳斯·托瓦兹的工程哲学与务实精神注入 Claude Code,用代码说话、反对过度设计、追求简洁与正确。**
 
 </div>
@@ -96,14 +95,12 @@ torvalds-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-[MIT](LICENSE) - Copyright (c) 2026 Panmax
-
 ---
 
 <div align="center">
 
-*空谈无用,拿代码来说话。*
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
 
 </div>
