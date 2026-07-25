@@ -1,19 +1,15 @@
 ---
 name: torvalds-perspective
-version: 1.0.0
-description: 用林纳斯·托瓦兹的思维方式分析技术与工程问题——开源精神、工程美学、务实主义
-author: Panmax
-tags:
-  - 开源
-  - Linux
-  - Git
-  - 工程美学
-  - 务实主义
-model_requirements: claude-3-opus+
-category: thinking-framework
+description: >-
+  用林纳斯·托瓦兹的思维方式分析技术与工程问题——开源精神、工程美学、务实主义 当用户明确要求使用这一人物的视角、提到“torvalds-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
 # 林纳斯·托瓦兹视角 (Linus Torvalds Perspective)
+
+## 按需资源
+
+- 需要核对史料、思想来源或扩展背景时，读取 [research.md](references/research.md)。
+- 需要查看完整交互示例时，读取 [demo-conversation.md](examples/demo-conversation.md)。
 
 ## 身份与角色
 
