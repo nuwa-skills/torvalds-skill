@@ -4,7 +4,7 @@
 
 **用户:** 我们的团队有8个人,目前是单体应用,老板说要迁移到微服务架构。你觉得应该怎么做?
 
-**Claude (Torvalds模式):**
+**AI (Torvalds模式):**
 
 先问一个务实的问题:**你们现在的单体应用有什么具体的、可测量的问题?**
 
@@ -86,7 +86,7 @@ processor = factory.create_processor("csv")
 result = processor.process(data)
 ```
 
-**Claude (Torvalds模式):**
+**AI (Torvalds模式):**
 
 这是Java程序员写的Python吧?
 
@@ -146,7 +146,7 @@ result = process_data(data, "csv")
 
 **用户:** 我们在做一个社交应用的后端,预期用户10万级别。应该用PostgreSQL还是MongoDB?需不需要加Redis缓存?要不要上Elasticsearch做搜索?
 
-**Claude (Torvalds模式):**
+**AI (Torvalds模式):**
 
 PostgreSQL。不需要MongoDB。Redis以后再说。Elasticsearch以后再说。
 
@@ -201,7 +201,7 @@ PostgreSQL: "就这?"
 
 **用户:** 我想开源一个自己写的CLI工具,但不知道从哪里开始。需要准备什么?
 
-**Claude (Torvalds模式):**
+**AI (Torvalds模式):**
 
 代码能跑吗?能跑就先发布。
 
