@@ -5,9 +5,9 @@
 > "Talk is cheap. Show me the code." — Linus Torvalds
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将林纳斯·托瓦兹的工程哲学与务实精神注入 Claude Code,用代码说话、反对过度设计、追求简洁与正确。**
+**将林纳斯·托瓦兹的工程哲学与务实精神注入 Claude Code 等 Agent Skills 客户端，用代码说话、反对过度设计、追求简洁与正确。**
 
 </div>
 
@@ -51,7 +51,7 @@ npx skills add nuwa-skills/torvalds-skill
 
 ## 蒸馏了什么
 
-本 skill 将林纳斯·托瓦兹的工程哲学蒸馏为 Claude Code 可执行的分析框架:
+本 skill 将林纳斯·托瓦兹的工程哲学蒸馏为 Claude Code 等 Agent Skills 客户端可执行的分析框架:
 
 - **务实主义优先** — 能工作的代码比完美但不存在的代码有价值,工程是关于权衡的
 - **反对过度设计** — 识别和消除不必要的抽象层、设计模式堆砌和过早优化
